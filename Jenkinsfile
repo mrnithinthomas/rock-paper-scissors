@@ -42,6 +42,7 @@ node {
 				bat "copy target\\course-jsf*.war \"${tomcatWeb}\\course-jsf.war\""
 				}
 				}
+		 
 			
 		}
 		}
