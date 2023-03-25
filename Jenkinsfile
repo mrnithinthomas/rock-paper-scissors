@@ -27,7 +27,7 @@ node {
 				}
 				}
 			 stash name: "jpa-jar", includes: "target/course-jpa*.jar"	
-		}
+		} 
 		}
 	stage('jsf') { 
 	 ws('wsjsf') {
